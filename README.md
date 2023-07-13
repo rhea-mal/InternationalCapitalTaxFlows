@@ -36,6 +36,6 @@ All sheets are combined by country, currency, or ISO code. Appropriate exchange 
 This project is part of the Banking Almanac project of Three Centuries of International Capital Flows with Dr. Antonio Coppolla & Dr. Chenzi Xu (https://github.com/AntonioCoppola/coppola-xu). 
 
 #### Figure Output Example
-Exchange rate correlation to GBP for Year 1959 after balance sheet merging. Used to identify outliers and digitization errors (ex. Finland)
+Exchange rate and final GBP conversion correlations for years 1957 and 1959 after balance sheet merging. Used to identify outliers and digitization errors (ex. Finland)
 <img width="918" alt="Screenshot 2023-07-13 at 4 31 33 PM" src="https://github.com/rhea-mal/InternationalCapitalTaxFlows/assets/70975260/62239c5c-f6cd-485a-8f9c-1ab573f65ffa">
 
